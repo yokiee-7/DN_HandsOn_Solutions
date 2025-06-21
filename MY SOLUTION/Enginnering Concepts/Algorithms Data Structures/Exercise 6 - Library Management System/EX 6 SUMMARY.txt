@@ -1,9 +1,0 @@
-Data Structure Chosen: Used Book[] for linear search and Sorted Book[] for binary search.
-
-Time Complexities:
-
-Linear Search: O(n)
-
-Binary Search: O(log n)
-
-Reasoning: Linear search works well for small or unsorted datasets. For larger libraries, binary search drastically improves performance when the book list is sorted by title or author.

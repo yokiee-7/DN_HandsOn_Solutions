@@ -1,9 +1,0 @@
-Technique Used: Used recursion to model financial growth over time based on past data.
-
-Time Complexities:
-
-Recursive Forecast: O(2ⁿ) without memoization
-
-Optimized with Memoization: O(n)
-
-Reasoning: Recursive algorithms simplify predictive models but can become inefficient. Optimizing with memoization or converting to iteration helps avoid redundant computation.
