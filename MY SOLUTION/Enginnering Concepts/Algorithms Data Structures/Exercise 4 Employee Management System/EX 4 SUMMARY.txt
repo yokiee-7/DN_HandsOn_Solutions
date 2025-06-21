@@ -1,0 +1,13 @@
+Data Structure Chosen: Used an array Employee[] to store and manage employee records.
+
+Time Complexities:
+
+Add: O(1) (if space available)
+
+Search: O(n)
+
+Traverse: O(n)
+
+Delete: O(n)
+
+Reasoning: Arrays offer fast access and easy traversal, but are limited in size and require shifting elements for deletion, making them less ideal for frequent modifications.

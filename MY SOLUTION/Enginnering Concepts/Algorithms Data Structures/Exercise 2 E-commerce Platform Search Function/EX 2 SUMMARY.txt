@@ -1,0 +1,9 @@
+Data Structure Chosen: Used Product[] for linear search and Sorted Product[] for binary search.
+
+Time Complexities:
+
+Linear Search: O(n)
+
+Binary Search: O(log n)
+
+Reasoning: Linear search works on unsorted data but becomes slow with more items. Binary search is highly efficient for sorted datasets, making it suitable for faster search functionality at scale.
